@@ -98,7 +98,7 @@ def checkfreeFields(field):
     return freeField
 
 #Spielbeginn
-print(f'Let us play tic tac toe! Pick a field of your choice and write its number when it is your turn!')
+print(f'Let us play tic tac toe :) Pick a field of your choice and write its number when it is your turn!')
 fieldnumbers = ['1', '2', '3','4', '5', '6', '7', '8', '9']
 drawField(fieldnumbers)
 
